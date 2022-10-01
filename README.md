@@ -1,6 +1,6 @@
-# Projeto Backend
+# Projeto Mobile
 
-Projeto java mobile em nível de desenvolvimento.
+Projeto de aplicação com java mobile em nível de desenvolvimento.
 
 ## Tasks
 
